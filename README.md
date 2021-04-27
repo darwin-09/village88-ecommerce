@@ -1,1 +1,1 @@
-# village88-ecommerce
+# E-commerce (Village88 Capstone Project)
