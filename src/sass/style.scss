@@ -1,0 +1,19 @@
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
+.bg-purple {
+    background-color: #BB51C2 !important;
+}
+
+.bg-mustard {
+    background-color: #EE7F00 !important;
+}
+
+.admin-product-img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.grab-cursor {
+    cursor: grab;
+}
